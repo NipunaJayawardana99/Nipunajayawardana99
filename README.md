@@ -27,8 +27,27 @@
 </div>
 
 <br>
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmR4YTFka2Nia2F0c2RoOXV6NG9kbTN2cHdtMGVmNWp0ZHFtemVnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZgTR3UQ9XAWDvqy9jv/giphy.gif">
+<br>
 
-- <h3 align="left">Languages and Tools:</h3>
+- 🔭 I’m currently working on 
+
+- 🌱 I’m currently learning 
+
+- 👨‍💻 All of my projects are available at 
+
+- 💬 Ask me about 
+
+- 📫 How to reach me 
+
+- 📄 Know about my experiences
+
+- ⚡ Fun fact 
+
+<br>
+
+<br>
+ <h3 align="left">Languages and Tools:</h3>
 
 - Frontend
 <p align="left">
